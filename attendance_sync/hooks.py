@@ -14,7 +14,7 @@ app_license = "agpl-3.0"
 add_to_apps_screen = [
 	{
 		"name": "attendance_sync",
-		"logo": "apps/attendance_sync/attendance_sync/public/img/logo.png",
+		"logo": "/assets/attendance_sync/img/logo.png",
 		"title": "Attendance Sync",
 		"route": "/attendance_sync",
 		# "has_permission": "attendance_sync.api.permission.has_app_permission"
